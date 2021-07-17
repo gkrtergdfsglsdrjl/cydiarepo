@@ -1,23 +1,22 @@
-Package: com.bigboss.bosspaperfantasypack1
+Package: com.adhd.pspbrowser
 Version: 1.0
-Architecture: iphoneos-arm
-Author: BigBoss <bigboss@thebigboss.org>
+Author: MaxHasADHD <maxhasadhd@gmail.com> 
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 12319
-Section: BossPaper Addons
-Depends: bosspaper
-Description: 354 Fantasy Wallpapers for the BossPaper app.
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bosspaperfantasypack1Data
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bosspaperfantasypack1Data
-Name: BossPaper Fantasy Pack 1
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: bigboss
-Filename: .debs/bosspaper_fantasy_pack_1_1.0.deb
-Depiction: https://gkrtergdfsglsdrjl.github.io/cydiarepo/depictions/com.bigboss.bosspaperfantasypack1.html
-Icon: https://gkrtergdfsglsdrjl.github.io/cydiarepo/icons/com.bigboss.bosspaperfantasypack1.png
-Size: 8605064
-MD5sum: 9b7bf26938716a0b04fab5c9dd516f58
-SHA1: 7653c257b85ba2764d2d912a901769b9b8787002
-SHA256: 358bfba04eb4c470703202a307bf32c0083803eb8211966f486b79ffcd1a9338
-SHA521: 0a7c2e10611d3fa5b0c21dd5e0183b3f08baa168bfecefb0e645e4202280003e0eb1235fccab7609fbebd9d640b4d8225699afff8c67da85f4a14d306bd7d58e
+Architecture: iphoneos-arm
+Installed-Size: 154
+Name: PSPBr0wser
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pspbrowserData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pspbrowserData
+Description: web browser with look of PSP's browser
+dev: maxhasadhd
+Section: Toys
+Icon: file:///Applications/pspbrowser.app/icon.png
+Filename: debs/pspbrowser_1.0.deb
+Depiction: https://gkrtergdfsglsdrjl.github.io/cydiarepo/depictions/com.adhd.pspbrowser.html
+Icon: https://gkrtergdfsglsdrjl.github.io/cydiarepo/icons/com.adhd.pspbrowser.png
+Size: 66548
+MD5sum: 60eda97f3d53e50970d15a5fe36de394
+SHA1: a5be8ae66111e0e0b8596bc0c9521938ddad7e81
+SHA256: e30c74c06d9fd447b45477859d8752c018c0dbf40f9a4ae87bee29bb4549767f
+SHA521: bbd6761cec78c6a36294de563a1bbb1db92ed60e3211aa277532b3885b481f8966d7a82b60bdb66299db468b99bb0ec94220729e88d1c96ba1a2fd8a349de7ca
 
