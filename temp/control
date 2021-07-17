@@ -1,0 +1,14 @@
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spoofcardDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spoofcardDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: SpoofApp.com <support@spoofcard.com>
+Name: SpoofCard
+Package: com.beebe.spoofapp3g
+Section: Toys
+Installed-Size: 11126
+Version: 10.4.0
+Architecture: iphoneos-arm
+Description: voice changer, call recording, caller ID spoofing
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: spoofapp
+Icon: file:///Applications/spoofcard.app/icon_rounded.png
