@@ -1,14 +1,13 @@
-Package: com.bigboss.bosspaperfantasypack1
+Package: com.adhd.pspbrowser
 Version: 1.0
-Architecture: iphoneos-arm
-Author: BigBoss <bigboss@thebigboss.org>
+Author: MaxHasADHD <maxhasadhd@gmail.com> 
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 12319
-Section: BossPaper Addons
-Depends: bosspaper
-Description: 354 Fantasy Wallpapers for the BossPaper app.
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bosspaperfantasypack1Data
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bosspaperfantasypack1Data
-Name: BossPaper Fantasy Pack 1
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: bigboss
+Architecture: iphoneos-arm
+Installed-Size: 154
+Name: PSPBr0wser
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pspbrowserData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pspbrowserData
+Description: web browser with look of PSP's browser
+dev: maxhasadhd
+Section: Toys
+Icon: file:///Applications/pspbrowser.app/icon.png
