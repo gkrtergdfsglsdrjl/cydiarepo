@@ -1,16 +1,23 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.bigboss.bosspaperfantasypack1
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/bosspaper_fantasy_pack_1_1.0.deb.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Pac3kage
-Author: Rep2osi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-
+Author: BigBoss <bigboss@thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 12319
+Section: BossPaper Addons
+Depends: bosspaper
+Description: 354 Fantasy Wallpapers for the BossPaper app.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bosspaperfantasypack1Data
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bosspaperfantasypack1Data
+Name: BossPaper Fantasy Pack 1
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: bigboss
+Filename: debs/bosspaper_fantasy_pack_1_1.0.deb
+Depiction: https://gkrtergdfsglsdrjl.github.io/cydiarepo/depictions/com.bigboss.bosspaperfantasypack1.html
+Icon: https://gkrtergdfsglsdrjl.github.io/cydiarepo/icons/com.bigboss.bosspaperfantasypack1.png
+Size: 8605064
+MD5sum: 9b7bf26938716a0b04fab5c9dd516f58
+SHA1: 7653c257b85ba2764d2d912a901769b9b8787002
+SHA256: 358bfba04eb4c470703202a307bf32c0083803eb8211966f486b79ffcd1a9338
+SHA521: 0a7c2e10611d3fa5b0c21dd5e0183b3f08baa168bfecefb0e645e4202280003e0eb1235fccab7609fbebd9d640b4d8225699afff8c67da85f4a14d306bd7d58e
 
