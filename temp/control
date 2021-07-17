@@ -1,0 +1,14 @@
+Package: com.bigboss.bosspaperfantasypack1
+Version: 1.0
+Architecture: iphoneos-arm
+Author: BigBoss <bigboss@thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 12319
+Section: BossPaper Addons
+Depends: bosspaper
+Description: 354 Fantasy Wallpapers for the BossPaper app.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bosspaperfantasypack1Data
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bosspaperfantasypack1Data
+Name: BossPaper Fantasy Pack 1
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: bigboss
